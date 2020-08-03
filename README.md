@@ -1,1 +1,1 @@
-# Algorithm using IntellijIdea
+# Algorithm using IntellijIdea Community
